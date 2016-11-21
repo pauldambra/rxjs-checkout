@@ -24,7 +24,7 @@ Weekly offers change frequently. The initial prices and offers are as follows:
 
 # Running the tests
 
-Mocha is configured to look for tests in a `test` folder and its subfolders in any file whose name ends "spec.js".
+Mocha is configured to look for tests in a `test` folder and its subfolders in any file whose name ends ".spec.js".
 
 Run either `mocha` or `npm test`.
 
