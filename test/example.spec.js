@@ -3,7 +3,7 @@ const Rx = require('rx');
 
 describe('writing a mocha test', function() {
   describe('uses "describe" to group tests', function() {
-    it('and uses "it" to definte tests');
+    it('and uses "it" to define tests');
     it('and an "it" with no function provided is pending');
   });
 
